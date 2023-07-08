@@ -47,4 +47,4 @@ Agent currently supports the following providers:
 
 [Quote by a customer of the product/service]
 
-To learn more, go to [URL].
+To learn more, go to https://github.com/zmoog/agent/
